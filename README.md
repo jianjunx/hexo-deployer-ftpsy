@@ -17,7 +17,7 @@ Set `deploy.type` to `ftp` in `_config.yml`.
 
 ``` yaml
 deploy:
-  type: ftp
+  type: ftpsy
 ```
 
 ### Configure
@@ -26,7 +26,7 @@ Add `connection` and `root` to `deploy` in `_config.yml`.
 
 ```
 deploy:
-  type: ftp
+  type: ftpsy
   connection:
     host: <ftp host>
     port: <ftp port>
