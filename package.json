@@ -2,7 +2,7 @@
   "name": "hexo-deployer-ftpsy",
   "version": "1.0.0",
   "description": "FTP deployer plugin for http://hexo.io",
-  "main": "index",
+  "main": "index.js",
   "repository": {
     "type": "git",
     "url": "https://github.com/jianjunx/hexo-deployer-ftpsy"
